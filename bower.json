@@ -1,0 +1,21 @@
+{
+  "name": "website",
+  "homepage": "https://github.com/cepatsembuh/cepatsembuh.github.io",
+  "authors": [
+    "Andre Christoga <andrechristoga@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "semantic": "semantic-ui#^2.1.8"
+  }
+}
