@@ -85,3 +85,7 @@ body {
   background-color: #404041;
   height: 3px;
 }
+
+li {
+  text-transform: uppercase;
+}
