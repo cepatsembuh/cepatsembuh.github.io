@@ -30,6 +30,13 @@ body {
   height: 100px;
 }
 
+.text-img {
+  margin-top: -3px;
+  /*max-width: 80px;*/
+  width: 100;
+  height: 36px;
+}
+
 .title {
   color: #E64629 !important;
   text-transform: uppercase;
