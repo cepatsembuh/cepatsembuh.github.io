@@ -9,3 +9,10 @@ body {
   width: 100px;
   height: 100px;
 }
+
+.title {
+  color: #E64629 !important;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  letter-spacing: 3px;
+}
